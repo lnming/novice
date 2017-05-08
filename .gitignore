@@ -1,0 +1,5 @@
+# not pyc file
+*.pyc
+
+# not db
+*.db
